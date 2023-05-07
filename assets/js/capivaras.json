@@ -1,0 +1,99 @@
+[
+    {
+      "image": "assets/img/img1.png",
+      "name": "Áries",
+      "date": "21 de março a 20 de abril",
+      "element": "Fúria - o elemento que representa a impaciência e a raiva de Áries, que os fazem explodir em fúria com facilidade.",
+      "text": "Capivara de Áries é um signo explosivo e valente. Ele não foge de uma boa briga, mas prefere se divertir nadando em rios e lagoas. Quando alguém tenta tirar sua paz, ele mostra seus dentes afiados e dá um belo bote. Seu lema é: Não mexe com quem está quieto na água!. Mas, apesar de ser durão, ele é muito carente e adora receber carinho nas orelhas. Se você quer conquistar um Capivara de Áries, ofereça um bom capim e brinque de pular na água.",
+      "sign": "aries"
+    },
+    {
+        "image": "assets/img/img2.png",
+      "name": "Touro",
+      "date": "21 de abril a 20 de maio",
+      "element": "Terra-mãe - o elemento que representa o apego exagerado de Touro à sua zona de conforto, que os fazem se recusar a sair de casa.",
+      "text": "Capivara de Touro é um signo que preza muito pelo conforto e pela tranquilidade. Ele adora dormir em um cantinho aconchegante e comer capim fresquinho. Quando alguém tenta tirar seu sossego, ele fica irritado e solta um grunhido forte. Mas, no fundo, é um animal muito doce e carinhoso. Adora receber cafuné e uma boa massagem nas costas. Se você quiser conquistar um Capivara de Touro, ofereça um bom pedaço de capim e um travesseiro macio. Ele vai te amar para sempre!",
+      "sign": "taurus"
+    },
+    {
+        "image": "assets/img/img3.png",
+      "name": "Gêmeos",
+      "date": "21 de maio a 20 de junho",
+      "element": "Vento-verborrágico - o elemento que representa a fala incessante de Gêmeos, que os fazem tagarelar sem parar, como um vento que não cessa.",
+      "text": "Capivara de Gêmeos é um signo bastante curioso e comunicativo. Ela adora conversar com outras capivaras e conhecer lugares novos. Mas também é muito indecisa e pode ficar horas na beira do rio sem saber se entra ou não na água. Se você quiser conquistar uma Capivara de Gêmeos, puxe assunto sobre assuntos variados e ofereça opções de atividades divertidas. Mas, cuidado, ela pode mudar de ideia a qualquer momento! Um dia ela quer passear, no outro quer ficar em casa dormindo. É uma capivara bem complicada, mas, se você souber lidar com suas variações de humor, pode ter uma ótima companhia para explorar a vida.",
+      "sign": "gemini"
+    },
+    {
+        "image": "assets/img/img4.png",
+      "name": "Câncer",
+      "date": "21 de junho a 22 de julho",
+      "element": "Melancolia-aquosa - o elemento que representa a tendência melancólica e chorona de Câncer, que os fazem se afogar em suas próprias lágrimas.",
+      "text": "Capivara de Câncer é um signo muito sensível e emotivo. Ela adora passar tempo com sua família e seus amigos mais próximos, mas também pode ficar um pouco reclusa em sua toca quando se sente insegura. Ela é muito protetora e pode ficar brava se alguém ameaçar seus entes queridos. Se você quiser conquistar uma Capivara de Câncer, ofereça segurança e carinho. Ela adora receber abraços e elogios sinceros. Mas, cuidado para não magoá-la, ela pode ficar triste e chorar por horas. Em dias de Lua Cheia, é melhor deixá-la em paz para se recuperar de suas emoções.",
+      "sign": "cancer"
+    },
+    {
+        "image": "assets/img/img5.png",
+      "name": "Leão",
+      "date": "23 de julho a 22 de agosto",
+      "element": "Sol-egocêntrico - o elemento que representa a arrogância e a necessidade de ser o centro das atenções de Leão, que os fazem brilhar como um sol em sua própria órbita.",
+      "text": "Capivara de Leão é um signo muito orgulhoso e vaidoso. Ela adora se exibir para os outros animais do zoológico e ser o centro das atenções. Ela é muito forte e corajosa, mas também pode ser um pouco mandona e arrogante. Se você quiser conquistar uma Capivara de Leão, faça muitos elogios e a trate como a rainha da floresta. Ela adora receber presentes e ser mimada. Mas, cuidado para não desafiá-la, ela pode ficar muito brava e atacar com suas garras afiadas. Se ela te convidar para dar um passeio em sua jaula, não se preocupe, é só para mostrar como é poderosa e majestosa.",
+      "sign": "leo"
+    },
+    {
+        "image": "assets/img/img6.png",
+      "name": "Virgem",
+      "date": "23 de agosto a 22 de setembro",
+      "element": "Hiperlimpeza-terrestre - o elemento que representa a obsessão de Virgem com a limpeza e a organização, que os fazem limpar tudo obsessivamente, como um terremoto que sacode a poeira.",
+      "text": "Capivara de Virgem é um signo muito organizado e perfeccionista. Ela adora deixar seu espaço limpo e arrumado, e é muito exigente consigo mesma e com os outros animais. Ela é muito inteligente e presta atenção em cada detalhe, mas também pode ficar um pouco estressada quando as coisas não saem como planejado. Se você quiser conquistar uma Capivara de Virgem, mostre que você também é organizado e cuidadoso. Ela adora receber elogios pelo seu trabalho bem feito e pode te ajudar a organizar suas coisas. Mas, cuidado para não atrapalhar sua rotina, ela pode ficar um pouco irritada se não tiver tempo suficiente para se dedicar às suas tarefas diárias. Se você quer fazer uma surpresa para ela, ofereça um kit de limpeza e um novo esfregão.",
+      "sign": "virgo"
+    },
+    {
+        "image": "assets/img/img7.png",
+      "name": "Libra",
+      "date": "23 de setembro a 22 de outubro",
+      "element": "Justiça-arbitrária - o elemento que representa a necessidade de Libra de ser justo, mesmo que seja de forma arbitrária e sem sentido.",
+      "text": "Capivara de Libra é um signo muito elegante e sociável. Ela adora fazer amizades e se divertir com outros animais. Ela é muito charmosa e sabe como impressionar com seu olhar penetrante e sua pelagem macia. Ela é muito equilibrada e justa, mas também pode ficar um pouco indecisa quando tem que escolher entre duas coisas que gosta. Se você quiser conquistar uma Capivara de Libra, mostre que você também é sociável e interessante. Ela adora sair para passear em lugares bonitos e tirar fotos para postar em suas redes sociais. Mas, cuidado para não magoá-la com críticas ou desentendimentos, ela pode ficar muito triste e perder sua confiança. Se você quer dar um presente para ela, ofereça uma caixa de chocolates finos e um espelho novo para ela se admirar.",
+      "sign": "libra"
+    },
+    {
+      "image": "assets/img/img8.png",
+      "name": "Escorpião",
+      "date": "23 de outubro a 21 de novembro",
+      "element": "Veneno-letal - o elemento que representa a ferocidade e a maldade de Escorpião, que os fazem injetar veneno letal em seus inimigos.",
+      "text": "Capivara de Escorpião é um signo muito intenso e misterioso. Ela adora passar seu tempo em lugares escuros e secretos, observando e planejando sua próxima jogada. Ela é muito apaixonada e pode ser muito ciumenta, mas também é muito leal e protetora com aqueles que ama. Se você quiser conquistar uma Capivara de Escorpião, mostre que você é corajoso e está disposto a enfrentar seus medos. Ela adora um bom desafio e pode te surpreender com sua astúcia e sagacidade. Mas, cuidado para não mexer em seus segredos, ela pode ficar muito brava e usar seu veneno para se defender. Se você quer dar um presente para ela, ofereça um livro de mistérios e suspense e uma caixa de chocolates amargos. ",
+      "sign": "scorpio"
+    },
+    {
+      "image": "assets/img/img9.png",
+      "name": "Sagitário",
+      "date": "22 de novembro a 21 de dezembro",
+      "element": "Arqueiro-desastrado - o elemento que representa a falta de jeito e a falta de habilidade com a flecha de Sagitário, que os fazem acertar tudo, menos o alvo.",
+      "text": "Capivara de Sagitário é um signo muito aventureiro e curioso. Ela adora explorar novos lugares e conhecer novas pessoas. Ela é muito otimista e sempre vê o lado bom das coisas, mas também pode ser um pouco impulsiva e se meter em confusões. Se você quiser conquistar uma Capivara de Sagitário, mostre que você também gosta de aventuras e novas experiências. Ela adora fazer trilhas e acampar em lugares selvagens, e pode te levar para conhecer o mundo. Mas, cuidado para não ser muito controlador, ela precisa de espaço para se mover e se expressar. Se você quer dar um presente para ela, ofereça uma mochila nova e uma bússola para ela se orientar em suas aventuras.",
+      "sign": "sagittarius"
+    },
+    {
+      "image": "assets/img/img10.png",
+      "name": "Capricórnio",
+      "date": "22 de dezembro a 20 de janeiro",
+      "element": "Pedra-fria - o elemento que representa a frieza e a insensibilidade de Capricórnio, que os fazem ser duros como uma pedra sem sentimentos.",
+      "text": "Capivara de Capricórnio é um signo muito trabalhador e determinado. Ela adora planejar seu futuro e alcançar seus objetivos, mas também pode ser um pouco teimosa e inflexível. Ela é muito cuidadosa com seu dinheiro e pode ser um pouco avarenta, mas também é muito generosa com aqueles que merecem sua confiança. Se você quiser conquistar uma Capivara de Capricórnio, mostre que você também é trabalhador e responsável. Ela adora ter um parceiro que a ajude a construir uma vida estável e segura. Mas, cuidado para não ser preguiçoso ou descuidado, ela pode ficar muito brava e perder sua paciência. Se você quer dar um presente para ela, ofereça um livro de finanças pessoais e uma carteira nova para ela guardar seu dinheiro.",
+      "sign": "capricorn"
+    },
+    {
+      "image": "assets/img/img11.png",
+      "name": "Aquário",
+      "date": "21 de janeiro a 19 de fevereiro",
+      "element": "Tecnologia-inovadora - o elemento que representa a obsessão de Aquário pela tecnologia, que os fazem criar inovações mirabolantes, como um raio laser em forma de cachorro-quente.",
+      "text": "Capivara de Aquário é um signo muito original e criativo. Ela adora pensar fora da caixa e encontrar soluções inovadoras para os problemas. Ela é muito independente e pode parecer um pouco distante, mas também é muito amigável e simpática com aqueles que compartilham de suas ideias. Se você quiser conquistar uma Capivara de Aquário, mostre que você também é uma pessoa livre e criativa. Ela adora ter um parceiro que a respeite e a deixe seguir seus próprios caminhos. Mas, cuidado para não ser muito tradicional ou conservador, ela pode ficar muito entediada e perder o interesse. Se você quer dar um presente para ela, ofereça um livro de ficção científica e um gadget novo e interessante. ",
+      "sign": "aquarius"
+    },
+    {
+      "image": "assets/img/img12.png",
+      "name": "Peixes",
+      "date": "19 de fevereiro a 20 de março",
+      "element": "Sonho-hippie - o elemento que representa a tendência hippie e sonhadora de Peixes, que os fazem flutuar em suas próprias fantasias, como um peixe nadando nas nuvens.",
+      "text": "Capivara de Peixes é um signo muito sensível e intuitivo. Ela adora sonhar acordada e se conectar com o mundo espiritual. Ela é muito gentil e pode parecer um pouco distraída, mas também é muito carinhosa e compassiva com aqueles que precisam de ajuda. Se você quiser conquistar uma Capivara de Peixes, mostre que você também é uma pessoa sensível e empática. Ela adora ter um parceiro que a compreenda e a ajude a realizar seus sonhos. Mas, cuidado para não ser muito crítico ou cético, ela pode ficar muito magoada e perder sua confiança. Se você quer dar um presente para ela, ofereça um livro de poesia e um par de chinelos macios para ela se sentir confortável em casa. ",
+      "sign": "pisces"
+    }
+  ]
+  

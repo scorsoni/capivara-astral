@@ -1,0 +1,140 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;700&display=swap');
+body {
+    font-family: 'Space Grotesk', sans-serif;
+    background-color: #11121c;
+    color: #ffffff;
+    font-weight: 400;
+    font-size: 1rem;
+    overflow-x: hidden;
+}
+*,:after,:before {
+    box-sizing: border-box
+}
+main {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    height: 100vh;
+    
+}
+.bg {
+    background: url(../img/bg.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    animation: rotation 60s linear infinite; 
+    position: absolute;
+    z-index: 10;
+    height: 100%;
+    width: 100%;
+
+}
+@keyframes rotation {
+    from {
+      transform: rotate(0deg); /* Define a rotação inicial */
+    }
+    to {
+      transform: rotate(360deg); /* Define a rotação final */
+    }
+  }
+h1, h2, h3, h4, h5, h6 {
+    margin:0 ;
+    padding: 0;
+}
+h1 {
+    font-size: 3rem;
+    color: #e6f85e;
+    margin: 0;
+    padding: 0;
+}
+h2 {
+    font-size: 1.75rem;
+    margin-bottom: 1rem;
+    color: #e6f85e;
+}
+h3 {
+    font-size: 1.35rem;
+    color: #bdbfd4;
+    margin-bottom: 1.5rem;
+    padding: 0;
+}
+p {
+    margin: 0;
+    padding: 0;
+}
+a, a:hover {
+    text-decoration: none;
+    color: #e6f85e;
+    justify-content: center;
+    display: flex;
+    letter-spacing: -2px;
+    font-style: italic;
+}
+ul, ol {
+    margin: 0;
+    padding: 0;
+}
+i {
+    margin-right: .75rem;
+    color: #e6f85e;
+    display: block;
+}
+strong {
+    color: #e6f85e;
+    font-weight: 700;
+}
+select {
+    font-size: 1rem;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    width: 100%;
+    background-color: #11121c;
+    color: #ffffff;
+    border: 1px solid #2e2f45;
+    border-radius:  0.5rem;
+}
+.main {
+    width: 800px;
+    margin: auto;
+    position: relative;
+    overflow: hidden;
+    z-index: 10;
+}   
+.text {
+    display: inline-flex;
+    margin-bottom: .85rem;
+}
+.description {
+
+}
+#sign-info {
+    display: none;
+    border: 1px solid #e6f85e;
+    padding: 2rem;
+    border-radius:  0.75rem;
+    background: #11121c;
+}
+#sign-image {
+    max-width: 100%;
+    margin-bottom: 1rem;
+}
+img#sign-image  { 
+    object-fit: cover;
+    width: 100%;
+    height: 400px;
+}
+@media (max-width: 992px) {
+    main {
+        height: auto;
+    }
+    .main {
+        width: 90%;
+        
+    } 
+    #sign-info{
+        padding: 1rem;
+    }
+    img#sign-image {
+        height: auto;
+    }
+}
